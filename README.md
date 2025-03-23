@@ -1,2 +1,4 @@
 # Mobile
-Poppy playtime mobile in Godot
+Poppy playtime mobile
+
+thanks for @DetectivePikaC2
